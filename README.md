@@ -10,7 +10,7 @@
 
 ## 📋 RoadMap
 - **🔒 Communication chiffré**
-- **🖥️ Voir l'ecran de la victime**
+- **🖥️ Voir l'ecran de la perssone**
 
 ## ⚙️ Fonctionnalité
 - **⌨️ Envoie de commande**
