@@ -15,5 +15,5 @@
 ## ⚙️ Fonctionnalité
 - **⌨️ Envoie de commande**
 
-### Copyright
+## Copyright
 ©️ alextoutcourt72
